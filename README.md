@@ -53,5 +53,5 @@ Nem tudo é código! Quando não estou desenvolvendo, você me encontrará:
 
 ### 📈 GitHub Stats
 
-![Stats de Michael](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+![Stats de Michael](https://github-readme-stats.vercel.app/api?username=Lettify&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lettify&layout=compact&theme=radical)
