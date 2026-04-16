@@ -46,8 +46,8 @@ Nem tudo é código! Quando não estou desenvolvendo, você me encontrará:
 ### 📫 Como me encontrar
 
 - **Website:** [michael.dev.br](https://michael.dev.br)
-- **LinkedIn:** [Seu Link Aqui]
-- **E-mail:** [Seu Email Aqui]
+- **LinkedIn:** https://www.linkedin.com/in/michael-felipe-ss/
+- **E-mail:** contato@michael.dev.br
 
 ---
 
