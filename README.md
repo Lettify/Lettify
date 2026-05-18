@@ -61,8 +61,8 @@ Defendo que o código deve ser uma conversa clara entre desenvolvedores. Sigo o 
 
 ### GitHub Stats
 
-![Stats de Michael](https://github-readme-stats.vercel.app/api?username=Lettify&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lettify&layout=compact&theme=dark)
+![Stats de Michael](https://github-stats-extended.vercel.app/api?username=Lettify&show_icons=true&theme=dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lettify&layout=compact&theme=dark)
 
 
 
